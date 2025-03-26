@@ -23,5 +23,4 @@ for item in response_list:
 import matplotlib.pyplot as plt
 plt.plot(exchange_date,exchange_rate)
 plt.show()
-git config --global user.name "kyrafael"
-git config --global user.email "ваш_email@example.com"
+
